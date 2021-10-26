@@ -23,7 +23,9 @@ Open up **Maya 22** to create a new plane to hold our flag.
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Make sure you are on the **Poly Modeling** tab and drag a plane into the scene.  Since the flag is essentially flat we will use a flat plane.
+
+![drag plane into the scene](images/dragPlane.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
