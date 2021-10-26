@@ -8,6 +8,7 @@ We will be setting up a simple flag animation using UE4 using their cloth simula
   
 
 * Tested on UE4 4.26
+* Maya 2022
 
 <!-- TOC -->
 ## Table of Contents
