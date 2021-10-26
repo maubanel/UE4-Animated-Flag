@@ -39,7 +39,9 @@ We need to make sure that the units match Unreal's default units.  So 1 **Maya**
 
 ##### `Step 4.`\|`ITA`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+A common size for the **[US Flag](https://en.wikipedia.org/wiki/Flag_of_the_United_States)** is 3' by 5'.  If we convert this to centimeters it is 91.44cm to 152.4cm.
+
+![alt_text](images/sizeOfFlag.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
