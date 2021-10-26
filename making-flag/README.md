@@ -55,7 +55,11 @@ Select the **Outliner** and make sure you have the **pPlane1** selected.  Change
 
 ##### `Step 6.`\|`ITA`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now animation happens on the vertices.  So the more vertices the more folds and realistic animation we will get.  Now this comes at a cost to performance.  Lets pick a pretty dense mesh to see how good it can look. Lets set the **Subdivision Width** to `60` units.  Now for a 3 x 5 aspect ratio model, to make these subdivisions square we need to find out the height.
+
+Divide height by width or 3/5 or 0.6.  Now multiply 60 by .6 which equals 36. So lets set the **Subdivision Height** to `36`.
+
+![set subdivision width and height to 60 and 36 respectively](images/subD.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
