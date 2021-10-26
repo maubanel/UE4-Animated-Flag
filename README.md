@@ -12,7 +12,7 @@ We will be setting up a simple flag animation using UE4 using their cloth simula
 
 <!-- TOC -->
 ## Table of Contents
-<kbd></kbd> &nbsp;&nbsp; [Making a Flag](making-flag/README.md#user-content-making-flag) <br>
+<kbd></kbd> &nbsp;&nbsp; [Making a Flag](making-flag/README.md#user-content-making-a-flag) <br>
 
 
 <!-- LICENSE -->
