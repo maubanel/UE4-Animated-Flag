@@ -47,7 +47,7 @@ A common size for the **[US Flag](https://en.wikipedia.org/wiki/Flag_of_the_Unit
 
 ##### `Step 5.`\|`ITA`| :small_orange_diamond:
 
-Select the **Outliner** and make sure you have the 
+Select the **Outliner** and make sure you have the **pPlane1** selected.  Change the **Width** to `152.4` and the **Height** to `91.44`.  Also, a flag is rarely flat on the ground so lets put it upright (like it is on a flag pole) by rotating the **Rotate X** axis by `90` degrees.
 
 ![alt_text](images/changeScaleAndRotation.png)
 
