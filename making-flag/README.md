@@ -31,7 +31,9 @@ Make sure you are on the **Poly Modeling** tab and drag a plane into the scene. 
 
 ##### `Step 3.`\|`ITA`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/setUnitCM.png)
+We need to make sure that the units match Unreal's default units.  So 1 **Maya** unit needs to be in **cm**.  So go to **Windows | Settings/Preferences | Preferences | Settings** and make sure **Working Units | Linear** is set to `centimeter` and **Angular** is set to `degrees`. Press the <kbd>Save</kbd> button.
+
+![change linear working units to centimeters](images/setUnitCM.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
