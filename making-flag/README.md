@@ -1,12 +1,12 @@
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-### Add Title
+### Making a Flag
 
 <sub>[previous](../) • [home](../README.md#user-content-ue4-animated-flag) • [next](../)</sub>
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-Chapter introduction here.
+Lets go into Maya and create a flag that we will import into Unreal.
 
 <br>
 
@@ -15,7 +15,9 @@ Chapter introduction here.
 
 ##### `Step 1.`\|`ITA`|:small_blue_diamond:
 
-![alt_text](images/.png)
+Open up **Maya 22** to create a new plane to hold our flag. 
+
+![open up Maya 22](images/Lets go into Maya and create a flag that we will import into Unreal..png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
