@@ -47,7 +47,9 @@ A common size for the **[US Flag](https://en.wikipedia.org/wiki/Flag_of_the_Unit
 
 ##### `Step 5.`\|`ITA`| :small_orange_diamond:
 
-![alt_text](images/.png)
+Select the **Outliner** and make sure you have the 
+
+![alt_text](images/changeScaleAndRotation.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
