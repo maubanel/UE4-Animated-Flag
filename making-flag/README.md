@@ -17,7 +17,7 @@ Lets go into Maya and create a flag that we will import into Unreal.
 
 Open up **Maya 22** to create a new plane to hold our flag. 
 
-![open up Maya 22](images/Lets go into Maya and create a flag that we will import into Unreal..png)
+![open up Maya 22](images/openUpMaya.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
