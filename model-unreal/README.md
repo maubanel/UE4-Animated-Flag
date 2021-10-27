@@ -27,13 +27,14 @@ In the **Select or Create New Project** screen select a new **Games** project an
 
 The **Select Template** screen comes up and we will select **Blank** and press the <kbd>Next</kbd> button. 
 
-![alt_text](images/createNewProject.png)
+![create a games project with the blank template](images/createNewProject.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 3.`\|`ITA`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+
+![alt_text](images/createProject.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
