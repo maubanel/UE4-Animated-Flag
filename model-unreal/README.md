@@ -33,8 +33,9 @@ The **Select Template** screen comes up and we will select **Blank** and press t
 
 ##### `Step 3.`\|`ITA`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+In **Project Settings** select a **Bluerprint** only project for **Desktop/Console** with no **Starter Content**.  Select a **Folder** and **Name** to store the new project.
 
-![alt_text](images/createProject.png)
+![create new UE4 project with no starter content](images/createProject.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
