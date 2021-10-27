@@ -47,7 +47,9 @@ In **Project Settings** select a **Bluerprint** only project for **Desktop/Conso
 
 ##### `Step 5.`\|`ITA`| :small_orange_diamond:
 
-![alt_text](images/.png)
+Create three new folders to hold assets needed for this walk through `Textures`, `Materials` and `StaticMeshes`.
+
+![three folders to hold assets](images/create3Folders.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
