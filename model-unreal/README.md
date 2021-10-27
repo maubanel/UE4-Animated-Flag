@@ -167,7 +167,8 @@ Open up the new **SK_Flag**.  Assign the **M_Flag** to the skeletal mesh.  Save 
 
 ##### `Step 20.`\|`ITA`| :large_blue_diamond: :large_blue_diamond:
 
-![alt_text](images/.png)
+Lets rename the 
+![alt_text](images/addFlagpole.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
