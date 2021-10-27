@@ -87,7 +87,7 @@ Open up **M_Flag** and right click on the empty graph.  Select a **Texture Sampl
 
 ##### `Step 10.`\|`ITA`| :large_blue_diamond:
 
-Connect thre **RGB** output of the **Texture Sample** node to the **Base Color** pin on the shader.
+Connect the **RGB** output pin from the **Texture Sample** node to the **Base Color** pin on the shader.
 
 ![rgb to base color connection](images/connectTexture.png)
 
