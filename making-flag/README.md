@@ -81,28 +81,32 @@ Now the UV's are not taking the entire height and show a gap.
 
 ##### `Step 9.`\|`ITA`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Click no the **vertex selection** tool and drag the mouse around all the vertices to select them.  Change to the scale tool and scale it on the **V** axis.  It needs to scale by .4 units (4 grids).
 
-
-![alt_text](images/UVEdtior.png)
+![scale UV's by .4 units on y](images/UVEdtior.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 10.`\|`ITA`| :large_blue_diamond:
 
-![alt_text](images/.png)
+Change to the transform tool. Move the UV set to fit with the `0` and `1` range.  I had to move it up .2 units on the **v** axis.
+
+![center uv's in zero to one](images/moveUVtoZeroOne.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 11.`\|`ITA`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Press the <kbd>D</kbd> key and move the pivot point to the left center of the object.  This is where it would get attached to a flag pole.  Zoom in and make sure it is bound to the middle edge vertice.
+
+![move pivor point to center left of flag](images/pressDCenterPivot.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 
 ##### `Step 12.`\|`ITA`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+![alt_text](imagescleanFile/.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
