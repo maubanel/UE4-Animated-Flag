@@ -119,25 +119,33 @@ Import **SK_Flag** that you crated in Maya and drag it into the **SkeletalMeshes
 
 ##### `Step 14.`\|`ITA`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now drag the **SK_Flag** into the game.  Notice that the flag lies flat and the pivot is on the wrong side.  Lets fix that.
+
+![flag in game in wrong direction with bad pivot](images/badFlag.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 15.`\|`ITA`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.png)
+Open up **SK_Flag** in **Maya** and move the pivot to the opposite side by pressing **D** to adjust the location.
+
+![pivot moved to other side of flag in maya](images/movePivot.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 16.`\|`ITA`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/.png)
+Move the pivot point to be in the `0, 0` location in the world.  It helps to see all four views to move it precisely to the center.
+
+![move flag to center](images/movePivotToZero.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 17.`\|`ITA`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now select **File | Game Exporter** and the only major change we will make is select **Z** up.  By default **Maya** is **Y** up and **UE4** is **Z** up.
+
+![alt_text](images/zAxisExport.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
