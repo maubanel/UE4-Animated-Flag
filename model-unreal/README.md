@@ -167,14 +167,15 @@ Open up the new **SK_Flag**.  Assign the **M_Flag** to the skeletal mesh.  Save 
 
 ##### `Step 20.`\|`ITA`| :large_blue_diamond: :large_blue_diamond:
 
-Lets rename the 
-![alt_text](images/addFlagpole.png)
+Lets add a **Basic | Cylinder** to the level and call it `Flag Pole`.  Change the **Transform | Scale** to `0.1, 0.1, 3.0`.  Position it in the middle of the level.
+
+![add cylinder as flagpole in the scene](images/addFlagpole.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 21.`\|`ITA`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+![alt_text](images/setUpPole.png)
 
 ___
 
