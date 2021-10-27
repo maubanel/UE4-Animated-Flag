@@ -65,7 +65,7 @@ Download the [T_USFlag.png](../Assets/T_USFlag.png) texture.  Drag and drop it i
 
 Now open up the **T_USFlag** texture.  Make sure it is a power of 2 size on both the **x** and **y** axis as well as a **Normal** compression with actual **Mip** levels.  Please note that the flag aspect ratio is distorted as we distored the UV's to be square.  When applied the aspect ratio should correct itself as the UV's will alter the textures aspect ratio to match the plane we created.
 
-![confirm flag texture has mips](images/FlagTexture.png)
+![flag texture has mips](images/FlagTexture.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
