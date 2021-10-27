@@ -79,9 +79,9 @@ Create a new **Material** in the **Materials** folder and name it `M_Flag`.
 
 ##### `Step 9.`\|`ITA`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-The 
+Open up **M_Flag** and right click on the empty graph.  Select a **Texture Sample** node.  Highlight the node and change the **Texture** to `T_USFlag`. Select the plane on the model preview panel.
 
-![alt_text](images/textureSampleFlag.png)
+![texture sample node and with t_usflag](images/textureSampleFlag.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
