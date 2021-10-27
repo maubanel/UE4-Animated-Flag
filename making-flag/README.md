@@ -114,12 +114,9 @@ Selet **Modify | Freeze Transformations** to 0 out the position and orientation 
 
 ##### `Step 13.`\|`ITA`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-
+Select the plane in editor and press **File | Game Exporter**.  Make sure you have **Export Selection** and **Move to Origin** is set to `true`. Select a **Path** and a filename.  Press the <kbd>Export</kbd> button.
 
 ![use game exporter to export model](images/exportModel.png)
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
 
 ___
 
