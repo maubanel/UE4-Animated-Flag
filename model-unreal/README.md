@@ -23,7 +23,9 @@ Open up the **Epic Games Launcher** and run the latest version of the game.
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
+In the **Select or Create New Project** screen select a new **Games** project and press the <kbd>Next</kbd> button.  
 
+The **Select Template** screen comes up and we will select **Blank** and press the <kbd>Next</kbd> button. 
 
 ![alt_text](images/createNewProject.png)
 
