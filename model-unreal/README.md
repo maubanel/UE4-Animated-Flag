@@ -71,7 +71,9 @@ Now open up the **T_USFlag** texture.  Make sure it is a power of 2 size on both
 
 ##### `Step 8.`\|`ITA`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Create a new **Material** in the **Materials** folder and name it `M_Flag`.
+
+![create m_flag material](images/newMaterial.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
