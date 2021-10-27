@@ -159,7 +159,9 @@ Go back to **Unreal** and delete the three files.  Re-import the new **SK_Flag**
 
 ##### `Step 19.`\|`ITA`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Open up the new **SK_Flag**.  Assign the **M_Flag** to the skeletal mesh.  Save the work and drag **SK_Mesh** into the level.  Now the orientation is correct and the pivot point is on the right side.
+
+![material assigned to sk_flag and is in game scene](images/assginMFlagReimport.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
