@@ -95,14 +95,17 @@ Connect the **RGB** output pin from the **Texture Sample** node to the **Base Co
 
 ##### `Step 11.`\|`ITA`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Add a **Constant** node and set it to `.45` and send it to the **Roughness** pin in the shader.  This will make the flag a bit shiny.  Lets leave it here for the material so lets press the <kbd>Apply</kbd> button.
+
+![.45 to roughness](images/roughness.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 
 ##### `Step 12.`\|`ITA`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
+Import **SK_Flag** that you crated in Maya and drag it into the **SkeletalMeshes** folder.  Select **Skeletal Mesh** and don't assign a skeleton.  In **Material Input Method** select `Do Not Create Material`.  Press the <kbd>Import</kbd> button.
 
-![alt_text](images/.png)
+![SK_Flag imported](images/importSKFlag.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
