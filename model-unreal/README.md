@@ -143,7 +143,7 @@ Move the pivot point to be in the `0, 0` location in the world.  It helps to see
 
 ##### `Step 17.`\|`ITA`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now select **File | Game Exporter** and the only major change we will make is select **Z** up.  By default **Maya** is **Y** up and **UE4** is **Z** up.
+Now select **File | Game Exporter** and the only major change we will make is select **Z | Up Axis**.  By default **Maya** is **Y** up and **UE4** is **Z** up.
 
 ![alt_text](images/zAxisExport.png)
 
