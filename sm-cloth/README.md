@@ -31,9 +31,9 @@ Right click on the flag again and now select **Apply Clothing Data | SM_Flag_Clo
 
 ##### `Step 3.`\|`ITA`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Select **Activate Cloth Paint** tab on the top bar.  This pops up the **Clothing** window.  Dock this on the menu on the left next to the **Skeleton Tree** tab.  Select the **Clothing Data | SK_Flag_Clothing_0** item in the **Clothing** tab.
 
-
-![alt_text](images/activateClothPaint.png)
+![activated clothing paint and selected cloth](images/activateClothPaint.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
