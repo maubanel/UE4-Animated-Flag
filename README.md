@@ -14,6 +14,7 @@ We will be setting up a simple flag animation using UE4 using their cloth simula
 ## Table of Contents
 <kbd></kbd> &nbsp;&nbsp; [Making a Flag](making-flag/README.md#user-content-making-a-flag) <br>
 <kbd></kbd> &nbsp;&nbsp; [Bring Model Into Unreal](model-unreal/README.md#user-content-bring-model-into-unreal)<br>
+<kbd></kbd> &nbsp;&nbsp; [Static Mesh to Cloth](sm-cloth/README.md#user-content-static-mesh-to-cloth)<br>
 
 
 <!-- LICENSE -->
