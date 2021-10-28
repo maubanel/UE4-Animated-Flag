@@ -47,15 +47,17 @@ Now the flag should turn pink.  It is ready to edit.  Pink means that it is not 
 
 ##### `Step 5.`\|`ITA`| :small_orange_diamond:
 
-We need to paint where the item is cloth.  We will leave the left side pink as it is supposed to be rigidly attached to the pole.  Our default brush 
+We need to paint where the item is cloth.  We will leave the left side pink as it is supposed to be rigidly attached to the pole.  Our default **Brush | Radius** of `120` is way to big.  Lower it to make the brush size more reasonable. 
 
-![alt_text](images/defaultBrushSize.png)
+![smaller brush radius](images/defaultBrushSize.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 6.`\|`ITA`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Paint the entire right side leaving a small strip of pink on the left which will not act as cloth and be rigid next to the pole.
+
+![painted flag](images/paintAllWhite.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
