@@ -97,17 +97,18 @@ Add a **Constant** node and set it to `.45` and send it to the **Roughness** pin
 
 ##### `Step 11.`\|`ITA`| :large_blue_diamond: :small_blue_diamond: 
 
-##### `Step 12.`\|`ITA`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 Import **SK_Flag** that you crated in Maya and drag it into the **SkeletalMeshes** folder.  Select **Skeletal Mesh** and don't assign a skeleton.  In **Material Input Method** select `Do Not Create Material`.  Press the <kbd>Import</kbd> button.
 
 ![SK_Flag imported](images/importSKFlag.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
+
+##### `Step 12.`\|`ITA`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
+
 *Double click* to open **SK_Flag** and assign the `M_Flag` to the **Material Slot**.
 
 ![M_Flag material assigned to SK_Flag](images/addMaterialToFlag.png)
-
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
@@ -176,6 +177,7 @@ Lets add a **Basic | Cylinder** to the level and call it `Flag Pole`.  Change th
 3.  When you hit play you should see the flag.
 
 ![alt_text](images/setUpPole.png)
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
