@@ -79,14 +79,15 @@ Go back to the game and *press* the <kbd>Play</kbd> button in the top menu bar t
 
 ##### `Step 9.`\|`ITA`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+*Add* a **Place Actors | Wind Directional Source** actor into the game.  This will act as a wind source for the entire level.
 
-![alt_text](images/windSource.png)
+![add wind directional actor to the level](images/windSource.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 10.`\|`ITA`| :large_blue_diamond:
 
-![alt_text](images/.png)
+![alt_text](images/windSettings.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
