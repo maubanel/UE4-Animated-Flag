@@ -15,7 +15,7 @@ Lets turn this static-mesh to an animated cloth.
 
 ##### `Step 1.`\|`ITA`|:small_blue_diamond:
 
-Open up **SK_Flag** and select the static mesh in the preview window.  Right click on the selected flag and select **Create Clothing Data from Section**, leave the defaults and press the <kbd>Create</kbd> button.
+Open up **SK_Flag** and press the **Section Selection** tab on the top bar. Select the static mesh in the preview window. Right click on the selected flag and choose the **Create Clothing Data from Section**, leave the defaults and press the <kbd>Create</kbd> button.
 
 ![created clothing data from section on flag](images/clothingMesh.png)
 
