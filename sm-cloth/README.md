@@ -115,7 +115,8 @@ https://user-images.githubusercontent.com/5504953/139283219-dc472f27-850c-4bb1-9
 
 ##### `Step 13.`\|`ITA`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+I downloaded **[Speed Tree for UE4](https://store.speedtree.com/buy-try/)** and added a few free trees.  I wanted to see how the combination of wind on the flag and trees would look like.  The wind only affects foliage and cloth in the engine. I ended up having to create three point volumes for each flag on the pole as the amount of wind to keep the flag up made the trees look like they were in a hurricane.  So I have a lot less overall level wind and smaller point wind on the flags.
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
