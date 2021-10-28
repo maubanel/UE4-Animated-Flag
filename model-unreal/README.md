@@ -187,7 +187,7 @@ Add a folder called **Maps**. Press **File | Save Current** and save the room an
 
 Open up **Project Settings** and select **Maps and Modes**.  Change the default room at load to **FlagMap**.
 
-![save room and make default](images/nameRoom.png)
+![room saved and made default](images/nameRoom.png)
 
 
 ___
