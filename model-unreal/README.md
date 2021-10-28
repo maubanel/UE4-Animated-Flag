@@ -41,19 +41,13 @@ In **Project Settings** select a **Bluerprint** only project for **Desktop/Conso
 
 ##### `Step 4.`\|`ITA`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 5.`\|`ITA`| :small_orange_diamond:
-
 Create three new folders to hold assets needed for this walk through `Textures`, `Materials` and `StaticMeshes`.
 
 ![three folders to hold assets](images/create3Folders.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 6.`\|`ITA`| :small_orange_diamond: :small_blue_diamond:
+##### `Step 5.`\|`ITA`| :small_orange_diamond:
 
 Download the [T_USFlag.png](../Assets/T_USFlag.png) texture.  Drag and drop it into the **Textures** folder in the **UE4** project.
 
@@ -61,7 +55,7 @@ Download the [T_USFlag.png](../Assets/T_USFlag.png) texture.  Drag and drop it i
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 7.`\|`ITA`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 6.`\|`ITA`| :small_orange_diamond: :small_blue_diamond:
 
 Now open up the **T_USFlag** texture.  Make sure it is a power of 2 size on both the **x** and **y** axis as well as a **Normal** compression with actual **Mip** levels.  Please note that the flag aspect ratio is distorted as we distored the UV's to be square.  When applied the aspect ratio should correct itself as the UV's will alter the textures aspect ratio to match the plane we created.
 
@@ -69,7 +63,7 @@ Now open up the **T_USFlag** texture.  Make sure it is a power of 2 size on both
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 8.`\|`ITA`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 7.`\|`ITA`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Create a new **Material** in the **Materials** folder and name it `M_Flag`.
 
@@ -77,7 +71,7 @@ Create a new **Material** in the **Materials** folder and name it `M_Flag`.
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 9.`\|`ITA`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 8.`\|`ITA`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Open up **M_Flag** and right click on the empty graph.  Select a **Texture Sample** node.  Highlight the node and change the **Texture** to `T_USFlag`. Select the plane on the model preview panel.
 
@@ -85,7 +79,7 @@ Open up **M_Flag** and right click on the empty graph.  Select a **Texture Sampl
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 10.`\|`ITA`| :large_blue_diamond:
+##### `Step 9.`\|`ITA`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Connect the **RGB** output pin from the **Texture Sample** node to the **Base Color** pin on the shader.
 
@@ -93,7 +87,7 @@ Connect the **RGB** output pin from the **Texture Sample** node to the **Base Co
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 11.`\|`ITA`| :large_blue_diamond: :small_blue_diamond: 
+##### `Step 10.`\|`ITA`| :large_blue_diamond:
 
 Add a **Constant** node and set it to `.45` and send it to the **Roughness** pin in the shader.  This will make the flag a bit shiny.  Lets leave it here for the material so lets press the <kbd>Apply</kbd> button.
 
@@ -101,6 +95,7 @@ Add a **Constant** node and set it to `.45` and send it to the **Roughness** pin
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
+##### `Step 11.`\|`ITA`| :large_blue_diamond: :small_blue_diamond: 
 
 ##### `Step 12.`\|`ITA`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 Import **SK_Flag** that you crated in Maya and drag it into the **SkeletalMeshes** folder.  Select **Skeletal Mesh** and don't assign a skeleton.  In **Material Input Method** select `Do Not Create Material`.  Press the <kbd>Import</kbd> button.
@@ -109,15 +104,14 @@ Import **SK_Flag** that you crated in Maya and drag it into the **SkeletalMeshes
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 13.`\|`ITA`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
-
 *Double click* to open **SK_Flag** and assign the `M_Flag` to the **Material Slot**.
 
 ![M_Flag material assigned to SK_Flag](images/addMaterialToFlag.png)
 
+
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 14.`\|`ITA`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+##### `Step 13.`\|`ITA`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
 Now drag the **SK_Flag** into the game.  Notice that the flag lies flat and the pivot is on the wrong side.  Lets fix that.
 
@@ -125,7 +119,7 @@ Now drag the **SK_Flag** into the game.  Notice that the flag lies flat and the 
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 15.`\|`ITA`| :large_blue_diamond: :small_orange_diamond: 
+##### `Step 14.`\|`ITA`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
 Open up **SK_Flag** in **Maya** and move the pivot to the opposite side by pressing **D** to adjust the location.
 
@@ -133,7 +127,7 @@ Open up **SK_Flag** in **Maya** and move the pivot to the opposite side by press
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 16.`\|`ITA`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
+##### `Step 15.`\|`ITA`| :large_blue_diamond: :small_orange_diamond: 
 
 Move the pivot point to be in the `0, 0` location in the world.  It helps to see all four views to move it precisely to the center.
 
@@ -141,7 +135,7 @@ Move the pivot point to be in the `0, 0` location in the world.  It helps to see
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 17.`\|`ITA`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 16.`\|`ITA`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
 Now select **File | Game Exporter** and the only major change we will make is select **Up Axis | Z**.  By default **Maya** is **Y** up and **UE4** is **Z** up.
 
@@ -149,7 +143,7 @@ Now select **File | Game Exporter** and the only major change we will make is se
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 18.`\|`ITA`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 17.`\|`ITA`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Go back to **Unreal** and delete the three files.  Re-import the new **SK_Flag** as a skeletal mesh with no material then press the <kbd>Import</kbd> button.
 
@@ -157,7 +151,7 @@ Go back to **Unreal** and delete the three files.  Re-import the new **SK_Flag**
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 19.`\|`ITA`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 18.`\|`ITA`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Open up the new **SK_Flag**.  Assign the **M_Flag** to the skeletal mesh.  Save the work and drag **SK_Mesh** into the level.  Now the orientation is correct and the pivot point is on the right side.
 
@@ -165,7 +159,7 @@ Open up the new **SK_Flag**.  Assign the **M_Flag** to the skeletal mesh.  Save 
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 20.`\|`ITA`| :large_blue_diamond: :large_blue_diamond:
+##### `Step 19.`\|`ITA`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Lets add a **Basic | Cylinder** to the level and call it `Flag Pole`.  Change the **Transform | Scale** to `0.1, 0.1, 3.0`.  Position it in the middle of the level.
 
@@ -173,7 +167,7 @@ Lets add a **Basic | Cylinder** to the level and call it `Flag Pole`.  Change th
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 21.`\|`ITA`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
+##### `Step 20.`\|`ITA`| :large_blue_diamond: :large_blue_diamond:
 
 1.  Adjust the flag to be on the right part of the pole.  Look at it from all angles.
 
@@ -182,6 +176,12 @@ Lets add a **Basic | Cylinder** to the level and call it `Flag Pole`.  Change th
 3.  When you hit play you should see the flag.
 
 ![alt_text](images/setUpPole.png)
+
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 21.`\|`ITA`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
+
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
