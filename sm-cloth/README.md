@@ -97,6 +97,10 @@ With it set to **false** this wind affects the entire level without going down. 
 
 ##### `Step 11.`\|`ITA`| :large_blue_diamond: :small_blue_diamond: 
 
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. The flag should be waving in the wind.  Play with the speed and angle until you get the effect you are looking for.
+
+https://user-images.githubusercontent.com/5504953/139281586-b51170e5-446d-4160-8f15-73c4df16f92e.mp4
+
 ![alt_text](images/.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
