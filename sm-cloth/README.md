@@ -87,7 +87,11 @@ Go back to the game and *press* the <kbd>Play</kbd> button in the top menu bar t
 
 ##### `Step 10.`\|`ITA`| :large_blue_diamond:
 
-![alt_text](images/windSettings.png)
+Now play with the direciton of the wind by rotating the **Wind Direction Source** actor.  There is a grey arrow indicating the direction of the wind.  Now for the wind settings lets leave **Point Wind** as false.  This is a setting for a single location of the wind (like a fan), then the **Radius** has an effect of how far that wind goes before it dies out.
+
+With it set to **false** this wind affects the entire level without going down.  The **Min Gust Amount** and **Max Gust Amount** are how much variation there is in the wind **Speed**.  The wind **Speed** is how hard it is blowing.  The wind **Strength** is how much of the entire windscape weight (if you have multiple wind direction sources) does this have.  So we can just focue on the **Speed** as this is the only one that will affect our flag.
+
+![adjusted wind angle and speed](images/windSettings.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
