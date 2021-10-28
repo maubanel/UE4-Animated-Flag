@@ -23,7 +23,7 @@ Open up **SK_Flag** and press the **Section Selection** tab on the top bar. Sele
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
-Right click on the flag again and now select **Create **
+Right click on the flag again and now select **Apply Clothing Data | SM_Flag_Clothing_0**.
 
 ![applied clothing data](images/applyClothingData.png)
 
@@ -31,7 +31,9 @@ Right click on the flag again and now select **Create **
 
 ##### `Step 3.`\|`ITA`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+
+
+![alt_text](images/activateClothPaint.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
