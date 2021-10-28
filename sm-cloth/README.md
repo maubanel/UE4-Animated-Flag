@@ -101,14 +101,15 @@ Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. T
 
 https://user-images.githubusercontent.com/5504953/139281586-b51170e5-446d-4160-8f15-73c4df16f92e.mp4
 
-![alt_text](images/.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 
 ##### `Step 12.`\|`ITA`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+I went back into Maya and created two more flags.  One with 1/4 the polygons being 30 by 18 polyogons (as opposed to the original 60 by 36), and another at the polygons at 10 by 6.  You can see that the detail in the flapping flag is affected as the object can only animate with the vertices.
+
+https://user-images.githubusercontent.com/5504953/139283219-dc472f27-850c-4bb1-9a06-13510c18bf25.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
