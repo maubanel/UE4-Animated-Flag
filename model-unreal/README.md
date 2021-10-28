@@ -176,7 +176,7 @@ Lets add a **Basic | Cylinder** to the level and call it `Flag Pole`.  Change th
 
 3.  When you hit play you should see the flag.
 
-![alt_text](images/setUpPole.png)
+![adjust flag, player start to face flag pole](images/setUpPole.png)
 
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
@@ -185,17 +185,13 @@ Lets add a **Basic | Cylinder** to the level and call it `Flag Pole`.  Change th
 
 
 
+![alt_text](images/nameRoom.png)
+
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 22.`\|`ITA`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: 
 
-1.  Adjust the flag to be on the right part of the pole.  Look at it from all angles.
 
-2.  Adjust the **Player Start** to be in front of the flag. Rotate it so the **X** axis faces the flag.
-
-3.  When you hit play you should see the flag.
-
-![alt_text](images/setUpPole.png)
 ___
 
 
