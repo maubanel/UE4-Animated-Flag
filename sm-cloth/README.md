@@ -63,7 +63,9 @@ Paint the entire right side leaving a small strip of pink on the left which will
 
 ##### `Step 7.`\|`ITA`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now we can finally see the fruits of our labor.  Selec the **Deactivate Cloth Paint** and now the areas that are white fall downward and drape like cloth!
+
+![flag droops down to ground](images/DeactivateClothPaint.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
