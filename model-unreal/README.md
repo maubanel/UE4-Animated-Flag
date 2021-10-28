@@ -183,13 +183,11 @@ Lets add a **Basic | Cylinder** to the level and call it `Flag Pole`.  Change th
 
 ##### `Step 21.`\|`ITA`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
+Add a folder called **Maps**. Press **File | Save Current** and save the room and call it `FlagMap`.
 
+Open up **Project Settings** and select **Maps and Modes**.  Change the default room at load to **FlagMap**.
 
-![alt_text](images/nameRoom.png)
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 22.`\|`ITA`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: 
+![save room and make default](images/nameRoom.png)
 
 
 ___
