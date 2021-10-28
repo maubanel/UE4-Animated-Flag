@@ -39,13 +39,17 @@ Select **Activate Cloth Paint** tab on the top bar.  This pops up the **Clothing
 
 ##### `Step 4.`\|`ITA`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now the flag should turn pink.  It is ready to edit.  Pink means that it is not cloth.  So if we left it as is, it would be a non-animating object.  
+
+![alt_text](images/pinkFlag.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 5.`\|`ITA`| :small_orange_diamond:
 
-![alt_text](images/.png)
+We need to paint where the item is cloth.  We will leave the left side pink as it is supposed to be rigidly attached to the pole.  Our default brush 
+
+![alt_text](images/defaultBrushSize.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
