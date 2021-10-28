@@ -2,7 +2,7 @@
 
 ### Bring Model Into Unreal
 
-<sub>[previous](../) • [home](../README.md#user-content-ue4-animated-flag) • [next](../)</sub>
+<sub>[previous](../making-flag/README.md#user-content-making-a-flag) • [home](../README.md#user-content-ue4-animated-flag) • [next](../sm-cloth/README.md#user-content-static-mesh-to-cloth)</sub>
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
@@ -199,5 +199,5 @@ ___
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-| [previous](../)| [home](../README.md#user-content-ue4-animated-flag) | [next](../)|
+| [previous](../making-flag/README.md#user-content-making-a-flag)| [home](../README.md#user-content-ue4-animated-flag) | [next](../sm-cloth/README.md#user-content-static-mesh-to-cloth)|
 |---|---|---|
